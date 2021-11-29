@@ -1,4 +1,4 @@
-# IMDB-Movie-Ratings
+# IMDB-Movie-Rating
 
 
 
